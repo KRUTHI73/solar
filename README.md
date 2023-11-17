@@ -40,14 +40,17 @@ To create a IoT based Solar monitoring system
 •	Relays have different contact configurations, including normally open (NO), normally closed (NC), and changeover (CO) or double-throw contacts. These configurations determine how the relay behaves in its normal state and when activated.
 
 
-MIND MAP :-
-![MIDNES](https://github.com/Sujandb/Solar-power-monitering-system-IOT-project/assets/109717277/ae7bafc3-33ca-47f0-8d52-96f71a2920fa)
+MIND MAP :-![WhatsApp Image 2023-11-17 at 11 19 57 AM](https://github.com/KRUTHI73/solar/assets/149406141/bcd54cbf-fa1e-46c5-84d7-0a6ef6d3fe7b)
 
 
 
-FLOW CHART :-
 
-[doc.docx](https://github.com/Sujandb/Solar-power-monitering-system-IOT-project/files/13379133/doc.docx)
+
+FLOW CHART :-![Screenshot 2023-11-17 105958](https://github.com/KRUTHI73/solar/assets/149406141/e3c3a6da-2775-4bc8-b9e7-59a7c3344d37)
+
+
+
+
 
 
 
